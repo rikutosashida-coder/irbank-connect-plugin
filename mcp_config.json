@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "irbank-connect": {
+      "url": "https://api.irbank.net/mcp/market"
+    }
+  }
+}

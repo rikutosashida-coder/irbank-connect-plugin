@@ -1,0 +1,13 @@
+{
+  "name": "irbank-connect",
+  "owner": {
+    "name": "IRBANK Inc.",
+    "email": "rikuto.sashida@corp.irbank.net"
+  },
+  "plugins": [
+    {
+      "name": "irbank-connect",
+      "source": "."
+    }
+  ]
+}

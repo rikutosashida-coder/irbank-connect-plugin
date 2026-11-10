@@ -1,0 +1,27 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "irbank-connect",
+  "version": "1.0.2",
+  "description": "Read-only data on Japanese listed companies: financials, prices, disclosures, and screening by your criteria. No trading or investment advice.",
+  "author": {
+    "name": "IRBANK Inc.",
+    "email": "rikuto.sashida@corp.irbank.net"
+  },
+  "homepage": "https://irbank.net/article/irbank/howto-connect/",
+  "repository": "https://github.com/rikutosashida-coder/irbank-connect-plugin",
+  "license": "MIT",
+  "keywords": [
+    "irbank",
+    "japan",
+    "financial-data",
+    "disclosures",
+    "mcp"
+  ],
+  "logo": "assets/logo.svg",
+  "displayName": "IRBANK Connect",
+  "suggestedPrompts": [
+    "トヨタ自動車の過去10年の売上高・営業利益・純利益の推移を教えてください。",
+    "配当利回り3%以上、PER15倍以下の日本株を、配当利回り順に10件まで表示してください。",
+    "ソニーグループのセグメント別営業利益を確認してください。"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "irbank-connect",
+  "version": "1.0.2",
+  "description": "Read-only data on Japanese listed companies: financials, prices, disclosures, and screening by your criteria. No trading or investment advice.",
+  "author": {
+    "name": "IRBANK Inc.",
+    "email": "rikuto.sashida@corp.irbank.net"
+  },
+  "homepage": "https://irbank.net/article/irbank/howto-connect/",
+  "repository": "https://github.com/rikutosashida-coder/irbank-connect-plugin",
+  "license": "MIT",
+  "keywords": [
+    "irbank",
+    "japan",
+    "financial-data",
+    "disclosures",
+    "mcp"
+  ],
+  "logo": "assets/logo.svg",
+  "rules": ".cursor-plugin/rules/irbank-scope.mdc",
+  "mcpServers": "mcp_config.json"
+}
